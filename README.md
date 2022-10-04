@@ -15,3 +15,6 @@ Pada pernyataan do-while, tubuh loop berupa pernyataan, dengan pernyataan bisa b
 
 Berikut ini mungkin source code yang mungkin perlu dijelaskan:
 TugasNestedLoop.java<img width="1146" alt="Screen Shot 2022-10-04 at 19 45 07" src="https://user-images.githubusercontent.com/112646010/193822611-6aeebe29-7561-4155-a257-0849b1b7c9a4.png">
+
+
+Pada program tersebut, saya menggunakan nested loop dengan kombinasi while-while. Di sini ada 2 buah variabel int: yaitu i dan j yang mana i sebagai outer while dan j sebagai inner.
