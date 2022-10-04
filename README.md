@@ -1,5 +1,20 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama  : Ahmad Reginald Syahiran
+NIM   : 21343039
+
+
+A. Pernyataan FOR
+Mengulang suatu proses merupakan tindakan yang banyak dijumpai dalam pemrograman. Pada semua Bahasa pemrograman, pengulangan proses ditangani dengan
+suatu mekanisme yang disebut loop. Dengan menggunakan loop, suatu proses yang berulang misalnya menampilkan tulisan yang sama serratus kali pada layer dapat diimplementasikan dengan kode program yang pendek.
+
+
+B. Pernyataan While
+Pada pernyataaan while, pengecekan terhadap loop dilakukan dibagian awal (sebelum tubuh loop). Pernyataan dapat berupa pernyataan tunggal, pernyataan majemuk ataupun pernyataan kosong.
+
+C. Pernyataan Do-While
+Pada pernyataan do-while, tubuh loop berupa pernyataan, dengan pernyataan bisa berupa pernyataan tunggal, pernyataan majemuk ataupun pernyataan kosong. Pada pernyataan do, mula-mula pernyataan dijalankan. Selanjutnya, kondisi diuji.
+
+Berikut ini mungkin source code yang mungkin perlu dijelaskan:
+TugasNestedLoop.java<img width="1146" alt="Screen Shot 2022-10-04 at 19 45 07" src="https://user-images.githubusercontent.com/112646010/193822611-6aeebe29-7561-4155-a257-0849b1b7c9a4.png">
+
+
+Pada program tersebut, saya menggunakan nested loop dengan kombinasi while-while. Di sini ada 2 buah variabel int: yaitu i dan j yang mana i sebagai outer while dan j sebagai inner.
